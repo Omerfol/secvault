@@ -1,0 +1,7 @@
+Button#dis[disabled] {
+    background-color: gray;
+    cursor: default;
+}
+.disabled {
+    cursor: default;
+}

@@ -1,0 +1,17 @@
+label{
+    display: block;
+    margin: 5px ;
+}
+input, textarea{
+    width:100%;
+    padding:10px;
+    box-sizing: border-box;
+    outline: none;
+    resize: none;
+
+}
+Button#dis[disabled] {
+    background-color: gray;
+    cursor: default;
+}
+
